@@ -1,6 +1,6 @@
 // Databricks notebook source
 // MAGIC %md-sandbox
-// MAGIC <div style="text-align: center; line-height: 0; padding-top: 9px;">
+// MAGIC <div style="text-align: left; line-height: 0; padding-top: 9px;">
 // MAGIC   <p style = "font-size:30px">
 // MAGIC   <img src="https://getcruise.com/images/orange-logo.png" height="100" width="250"> <b></b>
 // MAGIC   </p>
